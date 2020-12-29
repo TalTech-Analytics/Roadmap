@@ -66,7 +66,6 @@ DAG - Directed acyclic graph
 ### Ülesanded pole tihtipeale kasutajasõbralikud - Vigased testid/mall/ülesande tekst
 * [ ] Tekstianalüsaatoriga analüüsida mallide kvantitatiivseid mõõtlemid (raskus, formaalsus, loetavus, tihedus)
 * Tudengi tagasiside analüüsimine
-  * [ ] Tekkivad küsimused eraldada
-   * Tekitada tabel küsimustest
+  * [ ] Tekkivad küsimused eraldada - tabel küsimustest
   * Lisada küsimus - puudujäägid
 * Ülesannete taaskasutamine
